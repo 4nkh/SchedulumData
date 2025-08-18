@@ -1,0 +1,1390 @@
+{
+  "AgendaShift-5s5tsx432ja3vfu6vsvk6xipdu-NONE": [
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-68ce9991-22d3-495b-8f15-d49f62281122"
+          },
+          "location": {
+            "S": "sfdd"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": true
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T16:20:34.012Z"
+          },
+          "stopAt": {
+            "S": "2025-06-16T01:30:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "asfdfa"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "asdfasf"
+          },
+          "updatedAt": {
+            "S": "2025-06-16T14:22:30.160Z"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-16T00:30:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-a01ba3c5-f9da-4b87-840c-53e0dd028953"
+          },
+          "location": {
+            "S": "fefe"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": false
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-15T23:18:18.784Z"
+          },
+          "stopAt": {
+            "S": "2025-06-16T22:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "fefe"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "encore lol "
+          },
+          "updatedAt": {
+            "S": "2025-06-16T22:54:31.478Z"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "punctuality": {
+            "S": "4"
+          },
+          "startAt": {
+            "S": "2025-06-16T03:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": true
+          },
+          "performance": {
+            "S": "3"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-d77be272-abb8-42fb-82c8-ac03776ecfcf"
+          },
+          "location": {
+            "S": "Quebec city"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": true
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T12:34:25.889Z"
+          },
+          "stopAt": {
+            "S": "2025-06-18T01:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "514-233-6788"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "Benevole"
+          },
+          "updatedAt": {
+            "S": "2025-06-16T13:39:56.135Z"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-18T00:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-30eb9bad-872b-48de-9276-90d311da9df5"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "location": {
+            "S": "fff"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": false
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T00:31:18.656Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T23:31:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "fff"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "fff"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "updatedAt": {
+            "S": "2025-06-14T00:31:18.656Z"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-13T08:31:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-3d5d70e7-9d7f-4494-91e5-f3858ceda790"
+          },
+          "location": {
+            "S": "las vegas"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": true
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T13:30:24.606Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T01:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "312-1234"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "Cook!!!"
+          },
+          "updatedAt": {
+            "S": "2025-06-16T12:59:05.635Z"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-13T00:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-d397728e-3d51-46fe-bc05-395f8d744ce2"
+          },
+          "location": {
+            "S": "Quebec city"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": false
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T13:15:58.004Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T22:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "514-233-6788"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "test"
+          },
+          "updatedAt": {
+            "S": "2025-06-16T13:02:05.645Z"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-13T00:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-7722219a-4c64-4d50-ae01-77f14a75e7ea"
+          },
+          "location": {
+            "S": "fff"
+          },
+          "rate": {
+            "S": "3"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": true
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-13T21:15:57.763Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T22:15:00.000Z"
+          },
+          "quality": {
+            "S": "2"
+          },
+          "info": {
+            "S": "fff"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "fff"
+          },
+          "updatedAt": {
+            "S": "2025-06-14T02:48:13.001Z"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "punctuality": {
+            "S": "1"
+          },
+          "startAt": {
+            "S": "2025-06-13T05:15:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "4"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-153d6e48-1d2d-4b0a-b374-975e7b5e61e7"
+          },
+          "location": {
+            "S": "mtl"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": true
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-13T17:01:14.824Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T23:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "444"
+          },
+          "deleted": {
+            "BOOL": true
+          },
+          "role": {
+            "S": "Test open"
+          },
+          "updatedAt": {
+            "S": "2025-06-14T00:03:32.270Z"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-13T04:30:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-7653df5a-1244-472e-b72a-deea1e961103"
+          },
+          "location": {
+            "S": "mtl"
+          },
+          "rate": {
+            "S": "3"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": true
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-13T17:03:30.005Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T22:00:00.000Z"
+          },
+          "quality": {
+            "S": "2"
+          },
+          "info": {
+            "S": "555"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "Test shift"
+          },
+          "updatedAt": {
+            "S": "2025-06-14T00:15:49.689Z"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "punctuality": {
+            "S": "2"
+          },
+          "startAt": {
+            "S": "2025-06-13T03:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "4"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-2120462f-106b-4910-8aed-884cbc005fac"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "location": {
+            "S": "Peintre"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": false
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T12:52:48.467Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T01:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "chauffeur"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "09/02/2025 17:00"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "updatedAt": {
+            "S": "2025-06-14T12:52:48.467Z"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-13T00:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-bc45875a-1825-48df-8ad9-7c3e2bf30e6f"
+          },
+          "location": {
+            "S": "lol"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": true
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-15T23:17:35.969Z"
+          },
+          "stopAt": {
+            "S": "2025-06-15T23:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "encore"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "allo"
+          },
+          "updatedAt": {
+            "S": "2025-06-16T01:45:02.050Z"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-15T05:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-73ee6b9d-f43e-4c6b-bcb1-d15e9bb172f0"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "location": {
+            "S": "fff"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": true
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-13T23:45:17.626Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T22:15:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "fff"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "fff"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "updatedAt": {
+            "S": "2025-06-13T23:45:17.626Z"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-13T05:15:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-118a7b61-6c66-41b8-8763-ad7026c28062"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "location": {
+            "S": "St-Eustache"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": false
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T14:16:38.430Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T01:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "1234123"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "Test"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "updatedAt": {
+            "S": "2025-06-14T14:16:38.430Z"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-13T00:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-34b8d060-0901-4f2a-b955-88b142ed4d3e"
+          },
+          "location": {
+            "S": "asd"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": true
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T16:23:57.968Z"
+          },
+          "stopAt": {
+            "S": "2025-06-15T01:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "asd"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "asd"
+          },
+          "updatedAt": {
+            "S": "2025-06-16T01:47:38.617Z"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-15T00:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-170e014b-625e-4cb5-9f84-0c96e8ee264c"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "location": {
+            "S": "Granby"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": false
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T12:48:04.474Z"
+          },
+          "stopAt": {
+            "S": "2025-06-14T13:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "230, Houle"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "Signaleur"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "updatedAt": {
+            "S": "2025-06-14T12:48:04.474Z"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-14T00:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-6e097f69-e65b-4a7c-b8b1-70f96997c3e7"
+          },
+          "location": {
+            "S": "las vegas"
+          },
+          "rate": {
+            "S": "3"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": false
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T01:53:34.164Z"
+          },
+          "stopAt": {
+            "S": "2025-06-14T10:54:00.000Z"
+          },
+          "quality": {
+            "S": "3"
+          },
+          "info": {
+            "S": "413-1234"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "Livreur"
+          },
+          "updatedAt": {
+            "S": "2025-06-16T01:36:30.556Z"
+          },
+          "userId": {
+            "S": "f418b408-d0a1-70a9-df3a-61b0a6e1ff9a"
+          },
+          "punctuality": {
+            "S": "3"
+          },
+          "startAt": {
+            "S": "2025-06-14T04:00:00.000Z"
+          },
+          "username": {
+            "S": "Mathieu Duval"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "3"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-27b1669d-230b-4086-a409-c14398683efb"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "location": {
+            "S": "xccc"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": false
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T00:42:47.591Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T23:32:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "cccc"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "cxccx"
+          },
+          "userId": {
+            "S": "f418b408-d0a1-70a9-df3a-61b0a6e1ff9a"
+          },
+          "updatedAt": {
+            "S": "2025-06-14T00:42:47.591Z"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-13T08:32:00.000Z"
+          },
+          "username": {
+            "S": "Mathieu Duval"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-e08ae8ca-9bf1-4cf9-a82b-7aa2cffad765"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "location": {
+            "S": "Quebec city"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": false
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T12:46:44.395Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T01:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "514-233-6788"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "Cook!!!"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "updatedAt": {
+            "S": "2025-06-14T12:46:44.395Z"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-13T00:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-49e8056c-2125-4d16-850b-498330a67b52"
+          },
+          "location": {
+            "S": "Quebec city"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": true
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T14:16:01.769Z"
+          },
+          "stopAt": {
+            "S": "2025-06-15T22:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "514-233-6788"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "Cook!!!"
+          },
+          "updatedAt": {
+            "S": "2025-06-16T01:20:28.730Z"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-15T02:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-5caa4d33-47cc-4974-b602-49aab6d83122"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "location": {
+            "S": "las vegas"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": false
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T12:51:15.701Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T01:00:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "test"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "welder"
+          },
+          "userId": {
+            "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
+          },
+          "updatedAt": {
+            "S": "2025-06-14T12:51:15.701Z"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-13T00:00:00.000Z"
+          },
+          "username": {
+            "S": "Robert Young"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-bdbfc229-6249-4f02-a565-9e9c7bcb5055"
+          },
+          "location": {
+            "S": "ddd"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": false
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-13T23:58:54.306Z"
+          },
+          "stopAt": {
+            "S": "2025-06-14T23:58:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "ddd"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "dede"
+          },
+          "updatedAt": {
+            "S": "2025-06-14T23:05:25.236Z"
+          },
+          "userId": {
+            "S": "f418b408-d0a1-70a9-df3a-61b0a6e1ff9a"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-14T05:58:00.000Z"
+          },
+          "username": {
+            "S": "Mathieu Duval"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "shiftId": {
+            "S": "Shift-83f8c481-0588-45ad-a084-6518f4600898"
+          },
+          "location": {
+            "S": "xccc"
+          },
+          "rate": {
+            "S": "0"
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "confirmed": {
+            "BOOL": true
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "createdAt": {
+            "S": "2025-06-14T00:32:52.324Z"
+          },
+          "stopAt": {
+            "S": "2025-06-13T23:32:00.000Z"
+          },
+          "quality": {
+            "S": "0"
+          },
+          "info": {
+            "S": "cccc"
+          },
+          "deleted": {
+            "BOOL": false
+          },
+          "role": {
+            "S": "cxccx"
+          },
+          "updatedAt": {
+            "S": "2025-06-16T02:05:33.293Z"
+          },
+          "userId": {
+            "S": "f418b408-d0a1-70a9-df3a-61b0a6e1ff9a"
+          },
+          "punctuality": {
+            "S": "0"
+          },
+          "startAt": {
+            "S": "2025-06-13T08:32:00.000Z"
+          },
+          "username": {
+            "S": "Mathieu Duval"
+          },
+          "accepted": {
+            "BOOL": false
+          },
+          "performance": {
+            "S": "0"
+          }
+        }
+      }
+    }
+  ]
+}

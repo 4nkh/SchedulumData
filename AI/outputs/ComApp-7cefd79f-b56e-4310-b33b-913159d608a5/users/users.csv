@@ -1,0 +1,8 @@
+comId,userId,username,image,night,monday,tuesday,wednesday,thursday,friday,saturday,sunday
+ComApp-7cefd79f-b56e-4310-b33b-913159d608a5,f418b408-d0a1-70a9-df3a-61b0a6e1ff9a,Mathieu Duval,a2caa5ad-42f1-4639-99b4-f2ab994bfbcc.jpeg,True,True,True,True,True,True,False,False
+ComApp-7cefd79f-b56e-4310-b33b-913159d608a5,1438b4a8-1081-70e4-eb19-bd1044a99d37,M Bougie,,False,False,False,False,False,False,False,False
+ComApp-7cefd79f-b56e-4310-b33b-913159d608a5,146834e8-20c1-7033-8bcc-0cabed5c0622,Mercedes Duval,,False,False,False,False,False,False,False,False
+ComApp-7cefd79f-b56e-4310-b33b-913159d608a5,34c80458-70e1-7076-f439-cd21a3086f08,Steve Swanson,,False,False,False,False,False,False,False,False
+ComApp-7cefd79f-b56e-4310-b33b-913159d608a5,54f8f498-1071-7058-e866-fbf7eca66697,Raymond Bourque,,False,True,False,True,False,True,False,False
+ComApp-7cefd79f-b56e-4310-b33b-913159d608a5,a47834b8-00d1-7083-c8eb-1dd0fa78cf10,Yvon Ponton,,False,False,False,False,False,False,False,False
+ComApp-7cefd79f-b56e-4310-b33b-913159d608a5,7468b4c8-f0a1-705b-bf95-d792db595f85,John Gilford,7468b4c8-f0a1-705b-bf95-d792db595f85/avatar/c59687eb-9f86-484f-bf1a-7f15310e8df8.jpg,False,False,False,False,False,False,False,False

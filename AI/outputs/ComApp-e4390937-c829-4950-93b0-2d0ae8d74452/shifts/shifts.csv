@@ -1,0 +1,3 @@
+shiftId,comId,userId,username,location,lat,lng,role,info,startAt,stopAt,quality,performance,punctuality,rate
+Shift-ebb45207-380b-4586-b8ea-a08b11224806,ComApp-e4390937-c829-4950-93b0-2d0ae8d74452,54f8f498-1071-7058-e866-fbf7eca66697,Raymond Bourque,test,,,SEO consultant,test,2025-07-19T00:00:00.000Z,2025-07-19T01:00:00.000Z,0,0,0,0
+Shift-5c4414fd-df50-4ef9-9adc-9fdfdb22b3a9,ComApp-e4390937-c829-4950-93b0-2d0ae8d74452,54f8f498-1071-7058-e866-fbf7eca66697,Raymond Bourque,test,,,test,test,2025-07-19T00:00:00.000Z,2025-07-19T01:00:00.000Z,0,0,0,0
