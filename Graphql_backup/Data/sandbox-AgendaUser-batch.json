@@ -1,0 +1,1954 @@
+{
+  "AgendaUser-vchnedpkxrd6jmrsdikyk6vebi-NONE": [
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test76"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test76@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test76"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z76"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test76"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z76"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test77"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test77@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test77"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z77"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test77"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z77"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test78"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test78@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test78"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z78"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test78"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z78"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test79"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test79@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test79"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z79"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test79"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z79"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test80"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test80@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test80"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z80"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test80"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z80"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test81"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test81@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test81"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z81"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test81"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z81"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test82"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test82@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test82"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z82"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test82"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z82"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test83"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test83@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test83"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z83"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test83"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z83"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test84"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test84@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test84"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z84"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test84"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z84"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test85"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test85@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test85"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z85"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test85"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z85"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test86"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test86@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test86"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z86"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test86"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z86"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test87"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test87@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test87"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z87"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test87"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z87"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test88"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test88@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test88"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z88"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test88"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z88"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test89"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test89@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test89"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z89"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test89"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z89"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test90"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test90@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test90"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z90"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test90"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z90"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test91"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test91@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test91"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z91"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test91"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z91"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test92"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test92@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test92"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z92"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test92"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z92"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test93"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test93@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test93"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z93"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test93"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z93"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test94"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test94@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test94"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z94"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test94"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z94"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test95"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test95@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test95"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z95"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test95"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z95"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test96"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test96@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test96"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z96"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test96"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z96"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test97"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test97@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test97"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z97"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test97"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z97"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test98"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test98@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test98"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z98"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test98"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z98"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test99"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test99@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test99"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z99"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test99"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z99"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "__typename": {
+            "S": "AgendaUser"
+          },
+          "night": {
+            "BOOL": false
+          },
+          "thursday": {
+            "BOOL": false
+          },
+          "suspended": {
+            "BOOL": false
+          },
+          "lastName": {
+            "S": "User Test100"
+          },
+          "comId": {
+            "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+          },
+          "monday": {
+            "BOOL": false
+          },
+          "createdAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "email": {
+            "S": "user_test100@schedulum.org"
+          },
+          "friday": {
+            "BOOL": false
+          },
+          "tuesday": {
+            "BOOL": false
+          },
+          "wednesday": {
+            "BOOL": false
+          },
+          "firstName": {
+            "S": "User Test100"
+          },
+          "language": {
+            "S": "en"
+          },
+          "sunday": {
+            "BOOL": false
+          },
+          "updatedAt": {
+            "S": "2025-01-18T13:57:24.201Z"
+          },
+          "userId": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5z100"
+          },
+          "timezone": {
+            "S": "5"
+          },
+          "saturday": {
+            "BOOL": false
+          },
+          "username": {
+            "S": "User Test100"
+          },
+          "profileOwner": {
+            "S": "11146834e8-20c1-7033-8bcc-0cabed5zz::11146834e8-20c1-7033-8bcc-0cabed5z100"
+          },
+          "FCMtoken": {
+            "S": ""
+          },
+          "readedAt": {
+            "S": "2025-01-18T13:57:23.713Z"
+          },
+          "type": {
+            "S": "EMPLOYEE"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -121,7 +121,7 @@
                 "BOOL": false
             },
             "updatedAt": {
-                "S": "2025-06-09T00:30:38.241Z"
+                "S": "2025-08-08T18:17:51.281Z"
             },
             "userId": {
                 "S": "146834e8-20c1-7033-8bcc-0cabed5c0622"
@@ -139,7 +139,7 @@
                 "S": "146834e8-20c1-7033-8bcc-0cabed5c0622::146834e8-20c1-7033-8bcc-0cabed5c0622"
             },
             "FCMtoken": {
-                "S": "fukl7t25QDqpgC7wLWaPWB:APA91bGFppLdAlEIw4xBOEvjFLzq3d6b8fU8jOCTj46z8R-bZqddkFKqP96CzI5N7J2obR9UW72tR3DCaWH4HKJTiUz0hIhQmy0GNgV4WOUVqpYJjEkTnqk"
+                "S": "ebqeTUS5Ss240xjYn9YdSC:APA91bGKoVSdnuJq9adp8E1xJdM3CpMyTcS8hXmtYJmK3jMRZJ9AFbpkpALBOvHf5-7nX-xns7AGAGVjmecyPBnGVw6k4ORtnQXyYZQJXHwTcKPt7ygh1ng"
             },
             "readedAt": {
                 "S": "2025-05-18T13:57:23.713Z"
@@ -420,7 +420,7 @@
                 "S": "64780418-4091-7046-3244-4761cc6e3b5e::64780418-4091-7046-3244-4761cc6e3b5e"
             },
             "FCMtoken": {
-                "S": "f6eOOmO1QVSieHoRMPTZl2:APA91bHzP2vO0joHxyEb2C1PHBqY4gB2Pn5WQ6djAHeL-wrO5pFYKImyXHfXtd5xACyREwhv8yaQQtUGqGnNmu8K7Ip0sH4zLArnu-QjpTaphqHtSKZcpyw"
+                "S": "eufGHZReS4O4eeYpXvMkKN:APA91bHjQKCnJNY1sIRIUggFr6slG7ZFLVl8NWK-A4aXUx2PuffNGXkmlzg4qE5wTFiGjFybmby5PQ-gkth5_uCQuNKgsGJLm_UTL_ZifHoGiK3d25KzpB0"
             },
             "readedAt": {
                 "S": "2025-05-12T15:38:43.715Z"
@@ -441,7 +441,7 @@
                 "BOOL": true
             },
             "updatedAt": {
-                "S": "2025-06-08T22:40:44.251Z"
+                "S": "2025-07-09T22:42:06.067Z"
             },
             "timezone": {
                 "S": "5"
@@ -453,7 +453,7 @@
                 "S": "Robert Birks"
             },
             "type": {
-                "S": "MANAGER"
+                "S": "EMPLOYEE"
             }
         },
         {
@@ -669,7 +669,7 @@
                 "BOOL": false
             },
             "updatedAt": {
-                "S": "2025-06-08T22:55:15.213Z"
+                "S": "2025-06-30T17:42:07.987Z"
             },
             "timezone": {
                 "S": "5"
@@ -681,7 +681,7 @@
                 "S": "Jim Curtis"
             },
             "type": {
-                "S": "EMPLOYEE"
+                "S": "MANAGER"
             }
         },
         {
@@ -766,102 +766,10 @@
                 "BOOL": false
             },
             "lastName": {
-                "S": "Young"
-            },
-            "comId": {
-                "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
-            },
-            "email": {
-                "S": "sp4rkplug784@gmail.com"
-            },
-            "friday": {
-                "BOOL": true
-            },
-            "hours": {
-                "N": "20"
-            },
-            "tuesday": {
-                "BOOL": false
-            },
-            "firstName": {
-                "S": "Robert"
-            },
-            "language": {
-                "S": "fr"
-            },
-            "sunday": {
-                "BOOL": false
-            },
-            "userId": {
-                "S": "24284418-0021-70d2-3fb3-de654dc17cb9"
-            },
-            "profileOwner": {
-                "S": "24284418-0021-70d2-3fb3-de654dc17cb9::24284418-0021-70d2-3fb3-de654dc17cb9"
-            },
-            "FCMtoken": {
-                "S": "fjfrQJhGS8GWOA_0B89ftr:APA91bHDSJ4ZjYeLdhXS226ZleNqMryZ07q80f4N5r4TiwYi4QK9c26z5WDeScuYl8LB6RKLkHi_6ER3kq09t2BialTSUAp5YutSquoX__4RCeaxB6aTnZg"
-            },
-            "readedAt": {
-                "S": "2025-03-30T04:11:29.094Z"
-            },
-            "__typename": {
-                "S": "AgendaUser"
-            },
-            "phoneNumber": {
-                "S": "438-596-6878"
-            },
-            "thursday": {
-                "BOOL": false
-            },
-            "monday": {
-                "BOOL": true
-            },
-            "createdAt": {
-                "S": "2025-03-30T04:11:29.591Z"
-            },
-            "wednesday": {
-                "BOOL": true
-            },
-            "updatedAt": {
-                "S": "2025-06-14T02:20:49.717Z"
-            },
-            "timezone": {
-                "S": "5"
-            },
-            "saturday": {
-                "BOOL": false
-            },
-            "username": {
-                "S": "Robert Young"
-            },
-            "type": {
-                "S": "MANAGER"
-            }
-        },
-        {
-            "__typename": {
-                "S": "AgendaUser"
-            },
-            "night": {
-                "BOOL": false
-            },
-            "thursday": {
-                "BOOL": false
-            },
-            "suspended": {
-                "BOOL": false
-            },
-            "lastName": {
                 "S": "M Bougie"
             },
-            "monday": {
-                "BOOL": false
-            },
             "comId": {
                 "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
-            },
-            "createdAt": {
-                "S": "2025-04-20T23:47:19.169Z"
             },
             "email": {
                 "S": "mathieub@schedulum.org"
@@ -872,9 +780,6 @@
             "tuesday": {
                 "BOOL": false
             },
-            "wednesday": {
-                "BOOL": false
-            },
             "firstName": {
                 "S": "M Bougie"
             },
@@ -884,85 +789,38 @@
             "sunday": {
                 "BOOL": false
             },
-            "updatedAt": {
-                "S": "2025-04-20T23:58:28.908Z"
-            },
             "userId": {
                 "S": "1438b4a8-1081-70e4-eb19-bd1044a99d37"
-            },
-            "timezone": {
-                "S": "5"
-            },
-            "saturday": {
-                "BOOL": false
-            },
-            "username": {
-                "S": "M Bougie"
             },
             "profileOwner": {
                 "S": "1438b4a8-1081-70e4-eb19-bd1044a99d37::1438b4a8-1081-70e4-eb19-bd1044a99d37"
             },
             "FCMtoken": {
-                "S": "fx0be2NyQCeM03C3fYHBd7:APA91bHIsZE6y5yzm4LABu-EYhMOWGLEKsZNu93y5A10Qfbpj_abB2GfC-PLxmlCEZJWKdZ_n3vi4tg9m1n1iXA64g7HbjZpScb4oW2CwsxiE2P8lind8Go"
+                "S": "e188yNEXRKqmPxSdRJxLxC:APA91bE33Tb-edG92kmkDOfPGWVYyJO6noXWt5KmPzFWRMLBK9Qt0sVpLSjFoNgTBdAFCy-HRyOPHOZOBHbbKTQpW47o5aBoterteZbINoZA_GRx7QV4FGU"
             },
             "readedAt": {
                 "S": "2025-04-20T23:47:18.728Z"
             },
-            "type": {
-                "S": "MANAGER"
-            }
-        },
-        {
             "__typename": {
                 "S": "AgendaUser"
             },
-            "night": {
-                "BOOL": false
-            },
             "thursday": {
                 "BOOL": false
-            },
-            "suspended": {
-                "BOOL": false
-            },
-            "lastName": {
-                "S": "jimbo jones"
-            },
-            "comId": {
-                "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
             },
             "monday": {
                 "BOOL": false
             },
             "createdAt": {
-                "S": "2025-05-24T23:59:01.425Z"
-            },
-            "email": {
-                "S": "schedulum784@gmail.com"
-            },
-            "friday": {
-                "BOOL": false
-            },
-            "tuesday": {
-                "BOOL": false
+                "S": "2025-04-20T23:47:19.169Z"
             },
             "wednesday": {
                 "BOOL": false
             },
-            "firstName": {
-                "S": "jimbo jones"
-            },
-            "language": {
-                "S": "en"
-            },
-            "sunday": {
-                "BOOL": false
+            "role": {
+                "S": "basic"
             },
             "updatedAt": {
-                "S": "2025-06-09T02:39:06.366Z"
-            },
-            "userId": {
-                "S": "84b8f468-7091-7029-7161-05ff06074f10"
+                "S": "2025-08-11T02:24:27.897Z"
             },
             "timezone": {
                 "S": "5"
@@ -971,19 +829,10 @@
                 "BOOL": false
             },
             "username": {
-                "S": "Evelyne craig"
-            },
-            "profileOwner": {
-                "S": "84b8f468-7091-7029-7161-05ff06074f10::84b8f468-7091-7029-7161-05ff06074f10"
-            },
-            "FCMtoken": {
-                "S": "ceL3XM4IRxi7WjQeL2_hK5:APA91bHN9VBGA9WBybZGUI8O-JxnK1aZ_kgObTYaDAQR6bhr5UgvJ5xN1WIF-zosylSUYDDXEvDBk6_iJqsHZl-82yCMT23aC6EL2XaweJsrz8RBWpC_7qU"
-            },
-            "readedAt": {
-                "S": "2025-05-24T23:59:00.737Z"
+                "S": "M Bougie"
             },
             "type": {
-                "S": "EMPLOYEE"
+                "S": "MANAGER"
             }
         },
         {
@@ -1030,7 +879,7 @@
                 "S": "f418b408-d0a1-70a9-df3a-61b0a6e1ff9a::f418b408-d0a1-70a9-df3a-61b0a6e1ff9a"
             },
             "FCMtoken": {
-                "S": "dIv25AqtTseIMhmcLaJEcK:APA91bEJjD7u-9BowKAL6C_0VmZUkzHt77r162bzraAhzb04BWECHsnVnXmo1oPVgVhV9zlkUh1tNhafFWhF04k-pde84YX6Zig_8mTH__Kctc7_zjK18nQ"
+                "S": "capDxuggSTONjkSfYK8rUW:APA91bFvAiqpNViu_owgpO-97G170wvLmACPR-B20LLePNAO1J1jGfiwIFwZLiJbfEjkxG0URqTJ89zGvQV44Gzcav_qoO8xoD-gNcme9-m-rndxQvbKFK4"
             },
             "readedAt": {
                 "S": "2025-03-30T04:14:53.414Z"
@@ -1039,7 +888,7 @@
                 "S": "AgendaUser"
             },
             "thursday": {
-                "BOOL": false
+                "BOOL": true
             },
             "monday": {
                 "BOOL": true
@@ -1050,8 +899,11 @@
             "wednesday": {
                 "BOOL": true
             },
+            "role": {
+                "S": "basic"
+            },
             "updatedAt": {
-                "S": "2025-06-15T14:02:22.662Z"
+                "S": "2025-08-17T11:11:00.467Z"
             },
             "timezone": {
                 "S": "5"
@@ -1061,6 +913,160 @@
             },
             "username": {
                 "S": "Mathieu Duval"
+            },
+            "type": {
+                "S": "MANAGER"
+            }
+        },
+        {
+            "night": {
+                "BOOL": false
+            },
+            "suspended": {
+                "BOOL": false
+            },
+            "lastName": {
+                "S": "John Gilford"
+            },
+            "comId": {
+                "S": "ComApp-7cefd79f-b56e-4310-b33b-913159d608a5"
+            },
+            "email": {
+                "S": "sp4rkplug784@gmail.com"
+            },
+            "friday": {
+                "BOOL": false
+            },
+            "hours": {
+                "N": "0"
+            },
+            "tuesday": {
+                "BOOL": false
+            },
+            "firstName": {
+                "S": "John Gilford"
+            },
+            "language": {
+                "S": "en"
+            },
+            "image": {
+                "S": "7468b4c8-f0a1-705b-bf95-d792db595f85/avatar/c59687eb-9f86-484f-bf1a-7f15310e8df8.jpg"
+            },
+            "sunday": {
+                "BOOL": false
+            },
+            "userId": {
+                "S": "7468b4c8-f0a1-705b-bf95-d792db595f85"
+            },
+            "profileOwner": {
+                "S": "7468b4c8-f0a1-705b-bf95-d792db595f85::7468b4c8-f0a1-705b-bf95-d792db595f85"
+            },
+            "FCMtoken": {
+                "S": "dD0Jtnp7ToWMh0q1mtuoZ8:APA91bG0YN-yF0Bh-pWSTPAvikHgLQkMVOHjKfbQPHrsbJmTCLFI2V8uGEUL0M8mJUG2XeIZBwcb8QtCp76o_d8iq1D3JFfo5e4JN11ZfAgP_Tn5jtL22mE"
+            },
+            "readedAt": {
+                "S": "2025-07-21T00:42:08.042Z"
+            },
+            "__typename": {
+                "S": "AgendaUser"
+            },
+            "thursday": {
+                "BOOL": false
+            },
+            "monday": {
+                "BOOL": false
+            },
+            "createdAt": {
+                "S": "2025-07-21T00:42:08.498Z"
+            },
+            "wednesday": {
+                "BOOL": false
+            },
+            "updatedAt": {
+                "S": "2025-07-29T12:46:38.684Z"
+            },
+            "timezone": {
+                "S": "5"
+            },
+            "saturday": {
+                "BOOL": false
+            },
+            "username": {
+                "S": "John Gilford"
+            },
+            "type": {
+                "S": "EMPLOYEE"
+            }
+        },
+        {
+            "__typename": {
+                "S": "AgendaUser"
+            },
+            "night": {
+                "BOOL": false
+            },
+            "thursday": {
+                "BOOL": false
+            },
+            "suspended": {
+                "BOOL": false
+            },
+            "lastName": {
+                "S": "James Doyle"
+            },
+            "comId": {
+                "S": "ComApp-cd032169-a9d1-44b2-b77d-4f591ffcd997"
+            },
+            "monday": {
+                "BOOL": false
+            },
+            "createdAt": {
+                "S": "2025-07-21T01:12:48.682Z"
+            },
+            "email": {
+                "S": "schedulum784@gmail.com"
+            },
+            "friday": {
+                "BOOL": false
+            },
+            "tuesday": {
+                "BOOL": false
+            },
+            "wednesday": {
+                "BOOL": false
+            },
+            "firstName": {
+                "S": "James Doyle"
+            },
+            "language": {
+                "S": "en"
+            },
+            "sunday": {
+                "BOOL": false
+            },
+            "updatedAt": {
+                "S": "2025-07-21T01:14:09.810Z"
+            },
+            "userId": {
+                "S": "44583478-7051-702e-eb0d-4865d575f139"
+            },
+            "timezone": {
+                "S": "5"
+            },
+            "saturday": {
+                "BOOL": false
+            },
+            "username": {
+                "S": "James Doyle"
+            },
+            "profileOwner": {
+                "S": "44583478-7051-702e-eb0d-4865d575f139::44583478-7051-702e-eb0d-4865d575f139"
+            },
+            "FCMtoken": {
+                "S": ""
+            },
+            "readedAt": {
+                "S": "2025-07-21T01:12:48.155Z"
             },
             "type": {
                 "S": "MANAGER"
